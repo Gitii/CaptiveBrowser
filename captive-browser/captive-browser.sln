@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptiveBrowser", "CaptiveBrowser\CaptiveBrowser.csproj", "{5CCCA852-8319-4232-A3F4-6661A07BDC48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptiveBrowser.Tests", "CaptiveBrowser.Tests\CaptiveBrowser.Tests.csproj", "{A879B2E3-671A-43B8-B715-F193BB1AFFC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptiveBrowser.Services", "CaptiveBrowser.Services\CaptiveBrowser.Services.csproj", "{F7578982-54BA-42FC-9825-47335801D22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptiveBrowser.ModelViews", "CaptiveBrowser.ModelViews\CaptiveBrowser.ModelViews.csproj", "{29248002-13A7-4B02-BC61-521E23C622DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B8C737-550F-435C-8454-A6B1F974A5F3}
+	EndGlobalSection
+EndGlobal

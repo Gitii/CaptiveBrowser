@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CaptiveBrowser (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CaptiveBrowser (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
